@@ -1,0 +1,538 @@
+{
+  "main": {
+    "id": "6bb787a553dbf224",
+    "type": "split",
+    "children": [
+      {
+        "id": "14bcee12a54ed533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f47f82597d6ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура системы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Архитектура системы"
+            }
+          },
+          {
+            "id": "a8242a8dbd2de5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диаграмма последовательностей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диаграмма последовательностей"
+            }
+          },
+          {
+            "id": "8606cd4f6253d58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диаграмма последовательностей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диаграмма последовательностей"
+            }
+          },
+          {
+            "id": "b70a170fbac3e162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "3906d7985a24df10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диаграмма Ганта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диаграмма Ганта"
+            }
+          },
+          {
+            "id": "c38846f6c99be2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диаграмма классов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диаграмма классов"
+            }
+          },
+          {
+            "id": "8da8c4c85bd2126d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диаграмма классов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диаграмма классов"
+            }
+          },
+          {
+            "id": "57d6f402ee8634bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "7b5929035638ee34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2"
+            }
+          },
+          {
+            "id": "2fb2f53fae1f4fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3"
+            }
+          },
+          {
+            "id": "6673917783d573a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4"
+            }
+          },
+          {
+            "id": "58bb695c33c07f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "2f43fd24b62c8537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db setup"
+            }
+          },
+          {
+            "id": "25b657331ee72d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "backend setup"
+            }
+          },
+          {
+            "id": "8a7256fc30e080f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db setup"
+            }
+          },
+          {
+            "id": "84f9f5150527d841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шифрование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шифрование"
+            }
+          },
+          {
+            "id": "e8d98d0e900d1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db setup"
+            }
+          },
+          {
+            "id": "5b13338e11296dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db init.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db init"
+            }
+          },
+          {
+            "id": "614eb2361eb13e63",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Блок схема решения квадратного уравнения-2025-04-26-18-42-55.png"
+              },
+              "icon": "lucide-image",
+              "title": "Блок схема решения квадратного уравнения-2025-04-26-18-42-55"
+            }
+          },
+          {
+            "id": "458cb08df2cc0b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "87bd647987cf07aa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "dz3mathmod.png"
+              },
+              "icon": "lucide-image",
+              "title": "dz3mathmod"
+            }
+          },
+          {
+            "id": "8fb99c4554a8ea34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "a0c2eae40923b38b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Блок схема решения квадратного уравнения-2025-04-26-18-42-55.png"
+              },
+              "icon": "lucide-image",
+              "title": "Блок схема решения квадратного уравнения-2025-04-26-18-42-55"
+            }
+          },
+          {
+            "id": "ba1fa759ff3633ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Пакеты системы-2025-03-20-12-26-17.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Пакеты системы-2025-03-20-12-26-17"
+            }
+          },
+          {
+            "id": "cab867634c89824a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3"
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc415925b3b5fdba",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e05709ccdc0d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9f46ca8fb4809f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d9ccda5777d48f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4326b6689550f42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "4d6a912af26c61a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "be02abb3e0e76b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b055832518351f5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Содержание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Содержание"
+            }
+          },
+          {
+            "id": "8548a7b61f4fce8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Содержание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Содержание"
+            }
+          },
+          {
+            "id": "3e84c25da1d20b94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "783e4b1b48fad4e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Содержание.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Содержание"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cab867634c89824a",
+  "lastOpenFiles": [
+    "4.md",
+    "3.md",
+    "Архитектура системы.md",
+    "2.md",
+    "1.md",
+    "Блок схема решения квадратного уравнения1-2025-04-26-21-08-39.png",
+    "Блок схема решения квадратного уравнения-2025-04-26-18-42-55.png",
+    "Блок схема решения квадратного уравнения1.md",
+    "Untitled 3.md",
+    "dz3mathmod.png",
+    "Untitled 2.md",
+    "Блок схема решения квадратного уравнения.md",
+    "db init.md",
+    "frontend setup.md",
+    "db setup.md",
+    "backend setup.md",
+    "Шифрование.md",
+    "Шифрование 1.md",
+    "Лицензии ПО.md",
+    "Диаграмма последовательностей.md",
+    "Диаграмма последовательностей-2025-03-26-08-34-32.png",
+    "Варианты использования системы-2025-03-26-08-17-48.png",
+    "Варианты использования системы-2025-03-18-10-44-28.svg",
+    "todo.md",
+    "Диаграмма классов.md",
+    "Диаграмма Ганта-2025-03-28-13-10-14.png",
+    "Диаграмма Ганта.md",
+    "Детализация требований.md",
+    "Варианты использования системы.md",
+    "Пакеты системы.md",
+    "Диаграмма последовательностей-2025-03-26-08-34-35.png",
+    "Техническое задание.md",
+    "Пользователи и бизнес-процессы.md",
+    "Пакеты системы-2025-03-20-12-26-17.svg",
+    "Диаграмма последовательностей-2025-03-26-08-34-38.png"
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\bin\Debug\net9.0\OnlineStore.Core.deps.json
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\refint\OnlineStore.Core.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Admin\Desktop\eShop\OnlineStore.Core\obj\Debug\net9.0\ref\OnlineStore.Core.dll

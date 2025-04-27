@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\bin\Debug\net9.0\OnlineStore.Infrastructure.deps.json
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineSt.A30D6540.Up2Date
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\refint\OnlineStore.Infrastructure.dll
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Admin\Desktop\eShop\OnlineStore.Infrastructure\obj\Debug\net9.0\ref\OnlineStore.Infrastructure.dll
